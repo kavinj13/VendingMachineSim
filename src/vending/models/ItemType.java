@@ -8,8 +8,8 @@ public enum ItemType {
 
     private final String prettyName;
 
-    private ItemType(String prettyName) {
-        this.prettyName = prettyName;
+    ItemType(String prettyName) {
+            this.prettyName = prettyName;
     }
 
     @Override

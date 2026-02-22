@@ -1,4 +1,4 @@
-//VIDEO LINK:
+//VIDEO LINK: https://youtu.be/YoqOcdqtg5g
 
 package vending.app;
 
